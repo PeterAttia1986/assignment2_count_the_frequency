@@ -1,0 +1,11 @@
+C:\Users\Peter\source\repos\count_the_frequency\count_the_frequency\bin\Debug\netcoreapp3.0\count_the_frequency.exe
+C:\Users\Peter\source\repos\count_the_frequency\count_the_frequency\bin\Debug\netcoreapp3.0\count_the_frequency.deps.json
+C:\Users\Peter\source\repos\count_the_frequency\count_the_frequency\bin\Debug\netcoreapp3.0\count_the_frequency.runtimeconfig.json
+C:\Users\Peter\source\repos\count_the_frequency\count_the_frequency\bin\Debug\netcoreapp3.0\count_the_frequency.runtimeconfig.dev.json
+C:\Users\Peter\source\repos\count_the_frequency\count_the_frequency\bin\Debug\netcoreapp3.0\count_the_frequency.dll
+C:\Users\Peter\source\repos\count_the_frequency\count_the_frequency\bin\Debug\netcoreapp3.0\count_the_frequency.pdb
+C:\Users\Peter\source\repos\count_the_frequency\count_the_frequency\obj\Debug\netcoreapp3.0\count_the_frequency.csprojAssemblyReference.cache
+C:\Users\Peter\source\repos\count_the_frequency\count_the_frequency\obj\Debug\netcoreapp3.0\count_the_frequency.AssemblyInfoInputs.cache
+C:\Users\Peter\source\repos\count_the_frequency\count_the_frequency\obj\Debug\netcoreapp3.0\count_the_frequency.AssemblyInfo.cs
+C:\Users\Peter\source\repos\count_the_frequency\count_the_frequency\obj\Debug\netcoreapp3.0\count_the_frequency.dll
+C:\Users\Peter\source\repos\count_the_frequency\count_the_frequency\obj\Debug\netcoreapp3.0\count_the_frequency.pdb
